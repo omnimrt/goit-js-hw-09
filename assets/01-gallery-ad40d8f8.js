@@ -7,4 +7,4 @@ import{S as r}from"./vendor-c9def49e.js";(function(){const i=document.createElem
             />
     </a>
 </li>`).join("");s.innerHTML=l;const h={captions:!0,captionSelector:"img",captionType:"attr",captionsData:"alt",captionPosition:"bottom",animation:250},d=new r(".gallery a",h);d.on("show.simplelightbox");
-//# sourceMappingURL=01-gallery-b9279070.js.map
+//# sourceMappingURL=01-gallery-ad40d8f8.js.map
